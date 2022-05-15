@@ -1,1 +1,2 @@
 myfirst git file
+second line in GIT
